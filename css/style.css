@@ -332,8 +332,8 @@ footer {
   color: #ffffff;
 }
 
-#detail .fa {
-  color: #f2545f;
+#detail svg {
+  fill: #c77c04;
   font-size: 48px;
 }
 
