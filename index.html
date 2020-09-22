@@ -240,12 +240,14 @@ http://www.templatemo.com/tm-486-new-event
 			</div>
 
 			<div class="wow fadeInUp col-md-5 col-sm-5" data-wow-delay="1s">
-<!-- 				<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdfhq-zXleHH-qs8_u_nSLW2Ldx5TZZqqrb4eODDno4hLLKXg/viewform?embedded=true" width="640" height="808" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe> -->
-				<form action="#" method="post">
-					<input name="firstname" type="text" class="form-control" id="firstname" placeholder="First Name">
-					<input name="lastname" type="text" class="form-control" id="lastname" placeholder="Last Name">
-					<input name="phone" type="telephone" class="form-control" id="phone" placeholder="Phone Number">
-					<input name="email" type="email" class="form-control" id="email" placeholder="Email Address">
+				<script type="text/javascript">var submitted=false;</script>
+				 <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted)  {alert('Your memberhship inquiry has been received. Thank you for your interest. We will be in touch.');} // To redirect replace alert with `window.location=newUrl`"
+				 ></iframe>
+				<form action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSdfhq-zXleHH-qs8_u_nSLW2Ldx5TZZqqrb4eODDno4hLLKXg/formResponse?embedded=true" onsubmit="submitted=true;" target="hidden_iframe" method="POST" id="mG61Hd" jsmodel="TOfxwf Q91hve" data-response="%.@.[]]" data-first-entry="0" data-last-entry="3" data-is-first-page="true">
+					<input name="entry.983840040" type="text" class="form-control" id="firstname" placeholder="First Name" required>
+					<input name="entry.1036686737" type="text" class="form-control" id="lastname" placeholder="Last Name" required>
+					<input name="entry.374029978" type="telephone" class="form-control" id="phone" placeholder="Phone Number" required>
+					<input name="entry.1826362555" type="email" class="form-control" id="email" placeholder="Email Address" required>
 					<div class="col-md-offset-6 col-md-6 col-sm-offset-1 col-sm-10">
 						<input name="submit" type="submit" class="form-control" id="submit" value="SUBMIT">
 					</div>
