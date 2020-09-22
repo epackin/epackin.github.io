@@ -292,7 +292,7 @@ footer {
   width: 100%;
 }
 
-#intro video {
+#intro iframe {
   position: absolute;
   left: 50%;
   top: 50%;
