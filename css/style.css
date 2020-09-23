@@ -55,6 +55,12 @@ p {
   line-height: 24px;
 }
 
+faqp {
+  color: #333333;
+  font-size: 14px;
+  line-height: 24px;
+}
+
 a {
   text-decoration: none !important;
   outline: none;
