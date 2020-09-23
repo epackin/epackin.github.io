@@ -749,4 +749,13 @@ footer {
   #intro {
     height: 100vh;
   }
+
+    #intro h1 {
+    margin-bottom: -20px;
+  }
+
+    #intro .btn {
+    margin-bottom: -20px;
+    }
+
 }
