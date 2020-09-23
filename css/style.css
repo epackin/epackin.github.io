@@ -98,12 +98,15 @@ footer {
 }
 
 #overview h3,
-#detail h3,
 #video h3,
 #register h3,
 #venue h3,
 #contact h3 {
   padding-bottom: 12px;
+}
+
+#detail h3 {
+  padding-bottom: 1px;
 }
 
 #intro .btn,
