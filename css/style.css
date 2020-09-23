@@ -535,7 +535,7 @@ footer {
   display: block;
   width: 100%;
   height: 100%;
-  padding: 10px 15px;
+  padding: 10px 40px 10px 15px;
 }
 
 #faq .panel-heading .panel-title a[data-toggle="collapse"]::after {
@@ -543,7 +543,7 @@ footer {
   display: block;
   position: absolute;
   line-height: 1;
-  right: 1em;
+  right: 5px;
   top: 50%;
   transform: translateY(-50%);
 }
