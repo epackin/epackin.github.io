@@ -55,6 +55,12 @@ p {
   line-height: 24px;
 }
 
+faqp {
+  color: #333333;
+  font-size: 14px;
+  line-height: 24px;
+}
+
 a {
   text-decoration: none !important;
   outline: none;
@@ -498,8 +504,8 @@ footer {
 }
 
 #faq .panel-default > .panel-heading {
-  background: #222222;
-  color: #c67b04;
+  background: #717171;
+  color: #fdfdfd;
 }
 
 #faq .panel-heading {
