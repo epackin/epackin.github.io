@@ -707,6 +707,14 @@ footer {
     height: 65vh;
   }
 
+    #intro h1 {
+    margin-bottom: -20px;
+  }
+
+    #intro .btn {
+    margin-bottom: -20px;
+    }
+
   #video iframe {
     margin-top: 42px;
   }
@@ -743,19 +751,14 @@ footer {
   #contact .contact_detail {
     margin-top: 82px;
   }
+
+
+#overview {
+    padding-top: 4rem;
 }
 
-@media (max-width: 760px) {
-  #intro {
-    height: 60vh;
-  }
-
-    #intro h1 {
-    margin-bottom: -20px;
-  }
-
-    #intro .btn {
-    margin-bottom: -20px;
-    }
+#register {
+    padding-top: 8rem;
+}
 
 }
