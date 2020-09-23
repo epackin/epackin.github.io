@@ -78,10 +78,14 @@ a {
 #speakers,
 #program,
 #sponsors,
-#contact,
-footer {
+#contact {
   padding-top: 10rem;
   padding-bottom: 10rem;
+}
+
+footer {
+  padding-top: 3rem;
+  padding-bottom: 1rem;
 }
 
 #detail,
@@ -504,7 +508,7 @@ footer {
 }
 
 #faq .panel-default > .panel-heading {
-  background: #717171;
+  background: #333;
   color: #fdfdfd;
 }
 
