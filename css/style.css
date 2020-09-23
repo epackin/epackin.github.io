@@ -113,7 +113,7 @@ footer {
   color: #ffffff;
   font-weight: 600;
   letter-spacing: 1px;
-  font-size: 12px;
+  font-size: 16px;
   padding: 14px 42px;
   margin-top: 42px;
   margin-right: 12px;
@@ -458,6 +458,7 @@ footer {
   border: 2px solid #ffffff;
   border-radius: 0px;
   color: #ffffff;
+  font-size: 20px;
   margin-bottom: 16px;
 }
 
