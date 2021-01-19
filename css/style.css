@@ -77,7 +77,7 @@ a {
 
 #detail,
 #video,
-#speakers,
+#instructors,
 #program,
 #sponsors,
 #contact {
@@ -91,7 +91,7 @@ footer {
 }
 
 #detail,
-#speakers,
+#instructors,
 #sponsors,
 footer {
   text-align: center;
@@ -361,29 +361,29 @@ footer {
 }
 
 /*---------------------------------------
-   Speakers section              
+   Instructors section              
 -----------------------------------------*/
-#speakers {
-  background: #f9f9f9;
+#instructors {
+  background: #f9f9f9bb;
 }
 
-#speakers h3 {
+#instructors h3 {
   font-size: 18px;
   margin-bottom: 0px;
 }
 
-#speakers h6 {
+#instructors h6 {
   color: #666;
   margin-top: 4px;
 }
 
-#speakers img {
+#instructors img {
   width: 100%;
   max-width: 100%;
   height: auto;
 }
 
-#speakers .col-md-3 {
+#instructors .col-md-3 {
   display: block;
   width: 100%;
   padding-top: 30px;
@@ -391,7 +391,7 @@ footer {
   margin-bottom: 22px;
 }
 
-#speakers .speakers-wrapper {
+#instructors .instructors-wrapper {
   background: #ffffff;
   padding-bottom: 22px;
 }
