@@ -361,29 +361,34 @@ footer {
 }
 
 /*---------------------------------------
-   Instructors section              
+   Instructors & Sponsrs section              
 -----------------------------------------*/
-#instructors {
+#instructors,
+#sponsors {
   background: #f9f9f9bb;
 }
 
-#instructors h3 {
+#instructors h3,
+#sponsors h3 {
   font-size: 18px;
   margin-bottom: 0px;
 }
 
-#instructors h6 {
+#instructors h6,
+#sponsors h6 {
   color: #666;
   margin-top: 4px;
 }
 
-#instructors img {
+#instructors img,
+#sponsors img {
   width: 100%;
   max-width: 100%;
   height: auto;
 }
 
-#instructors .col-md-3 {
+#instructors .col-md-3,
+#sponsors .col-md-3 {
   display: block;
   width: 100%;
   padding-top: 30px;
@@ -391,7 +396,8 @@ footer {
   margin-bottom: 22px;
 }
 
-#instructors .instructors-wrapper {
+#instructors .instructors-wrapper,
+#sponsors .sponsors-wrapper {
   background: #ffffff;
   padding-bottom: 22px;
 }
@@ -581,9 +587,7 @@ footer {
 /*---------------------------------------
    Sponsors section              
 -----------------------------------------*/
-#sponsors img {
-  margin-top: 18px;
-}
+
 
 /*---------------------------------------
    Contact section              

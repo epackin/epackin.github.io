@@ -40,7 +40,7 @@ $(document).ready(function() {
     $('#register').parallax("100%", 0.1);
     $('#faq').parallax("100%", 0.3);
     $('#venue').parallax("100%", 0.1);
-    $('#sponsors').parallax("100%", 0.3);
+    $('#sponsors').parallax("100%", 0.1);
     $('#contact').parallax("100%", 0.2);
 
   }
