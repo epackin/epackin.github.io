@@ -572,7 +572,8 @@ footer {
    Venue section              
 -----------------------------------------*/
 #venue {
-  background: #f9f9f988;
+  background: #222;
+  color: #ffffff;
   background-size: 50%;
   background-position: right;
   padding-top: 7rem;
@@ -580,6 +581,7 @@ footer {
 }
 
 #venue p {
+  color: #b9b7b7;
   padding-top: 12px;
   padding-bottom: 18px;
 }
