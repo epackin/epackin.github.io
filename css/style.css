@@ -325,16 +325,16 @@ footer {
   letter-spacing: 2px;
 }
 
+.header-reduced-margin {
+  margin-top: -5px;
+}
+
 /*---------------------------------------
    Overview  section              
 -----------------------------------------*/
 #overview img {
   position: relative;
   padding-bottom: 32px;
-}
-
-#overview-heading {
-  margin-top: -5px;
 }
 
 #overview #section-footer {
