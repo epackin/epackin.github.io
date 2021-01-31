@@ -50,7 +50,7 @@ $(document).ready(function() {
   /* Owl Carousel
   -----------------------------------------------*/
   $(document).ready(function() {
-    $("#owl-instructors").owlCarousel({
+    $(".owl-carousel").owlCarousel({
       autoPlay: 6000,
       items : 4,
       itemsDesktop : [1199,2],

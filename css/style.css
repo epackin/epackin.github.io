@@ -436,6 +436,7 @@ footer {
   margin-bottom: -1px;
 }
 .nav-tabs > li > a {
+  font-size: 20px;
   color: #000000;
   font-weight: 600;
   margin-right: 2px;
