@@ -37,7 +37,7 @@ h1 {
 
 h2 {
   font-size: 36px;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
 }
 
 h3 {
@@ -593,6 +593,13 @@ footer {
   color: #c0c0c0;
   padding-top: 12px;
   padding-bottom: 18px;
+}
+
+#travel-pack-list {
+  color: #c0c0c0;
+  margin-top: -35px;
+  font-size: 16px;
+  line-height: 24px;
 }
 
 /*---------------------------------------
