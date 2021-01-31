@@ -333,6 +333,14 @@ footer {
   padding-bottom: 32px;
 }
 
+#overview-heading {
+  margin-top: -5px;
+}
+
+#overview #section-footer {
+  text-align: center;
+}
+
 /*---------------------------------------
     Detail section              
 -----------------------------------------*/
